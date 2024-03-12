@@ -1,0 +1,5 @@
+requirementsflask
+twilio
+pymongo
+dnspython
+gunicorn
